@@ -1,0 +1,122 @@
+.header{
+	background-color:lightgrey
+}
+h1{
+	font-family:calibri;
+}
+.ttl{
+	background-color:white;
+	height:500px;
+	display:grid;
+	grid-template-columns:1fr 2fr 2fr 1fr 5fr;
+}
+.one{
+	background-color:pink;
+}
+.a{
+	height:13%;
+}
+.b{
+	height:13%;
+}
+.c{
+	height:13%;
+}
+.d{
+	height:13%;
+}
+.e{
+	height:13%;
+}
+.f{
+	height:13%;
+}
+.two{
+	background-color:pink;
+}
+.g{
+	height:13%;
+}
+.h{
+	height:13%;
+}
+.i{
+	height:13%;
+}
+.j{
+	height:13%;
+}
+.k{
+	height:13%;
+}
+.l{
+	height:13%;
+}
+.three{
+	background-color:lightblue;
+}
+.m{
+	height:13%;
+}
+.n{
+	height:13%;
+}
+.o{
+	height:13%;
+}
+.p{
+	height:13%;
+}
+.q{
+	height:13%;
+}
+.r{
+	height:13%;
+}
+.four{
+	background-color:lightblue;
+	justify-content: flex-end;
+}
+.s{
+	height:13%;
+}
+.t{
+	height:13%;
+}
+.u{
+	height:13%;
+}
+.v{
+	height:13%;
+}
+.w{
+	height:13%;
+}
+.x{
+	height:13%;
+}
+.five{
+	background-color:lightgrey;
+}
+.y{
+	height:20%;
+}
+.z{
+	height:76%;
+	display:grid;
+	grid-template-columns:4fr 1fr;
+	background-color:lightgrey;
+}
+img{
+	border-radius:30%;
+}
+#instructions{
+	text-align: justify;
+	border-style:dashed;
+	border-color:grey;
+}
+.Chat{
+	background-color: lightyellow;
+}
+.Subscription{
+	background-color: orange;
